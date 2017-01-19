@@ -1,0 +1,8 @@
+#ryslog installtion commands in Ubuntu 
+
+
+(sudo add-apt-repository ppa:adiscon/v8-stable )
+
+(sudo apt-get update)
+
+(sudo apt-get install rsyslog)
